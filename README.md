@@ -12,3 +12,6 @@ R. Interdonato
 P. Degenne
 M. Roche
 D. Lo Seen
+
+# Licence
+MIT.
